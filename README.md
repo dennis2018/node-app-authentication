@@ -1,4 +1,4 @@
-# Complete Guide to Node Authentication
+# Creating Node Authentication App
 
 Now available at https://devopsdennis.tech/node-authentication/
 
